@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Technology Post 1",
+      "content": "This is the content of the first technology post. This is the content of the first technology post. This is the content of the first technology post. This is the content of the first technology post.",
+      "author": "John Doe",
+      "date": "2023-01-01",
+      "category": "Technology",
+      "topic": "technology"
+    },
+    {
+      "id": 2,
+      "title": "Technology Post 2",
+      "content": "This is the content of the second technology post.",
+      "author": "Jane Smith",
+      "date": "2023-01-02",
+      "category": "Technology",
+      "topic": "technology"
+    },
+    {
+      "id": 3,
+      "title": "Technology Post 3",
+      "content": "This is the content of the third technology post.",
+      "author": "Alice Johnson",
+      "date": "2023-01-03",
+      "category": "Technology",
+      "topic": "technology"
+    },
+    {
+      "id": 4,
+      "title": "Technology Post 4",
+      "content": "This is the content of the fourth technology post.",
+      "author": "Bob Brown",
+      "date": "2023-01-04",
+      "category": "Technology",
+      "topic": "technology"
+    },
+    {
+      "id": 5,
+      "title": "Health Post 1",
+      "content": "This is the content of the first health post.",
+      "author": "John Doe",
+      "date": "2023-01-01",
+      "category": "Health",
+      "topic": "health"
+    },
+    {
+      "id": 6,
+      "title": "Health Post 2",
+      "content": "This is the content of the second health post.",
+      "author": "Jane Smith",
+      "date": "2023-01-02",
+      "category": "Health",
+      "topic": "health"
+    },
+    {
+      "id": 7,
+      "title": "Health Post 3",
+      "content": "This is the content of the third health post.",
+      "author": "Alice Johnson",
+      "date": "2023-01-03",
+      "category": "Health",
+      "topic": "health"
+    },
+    {
+      "id": 8,
+      "title": "Health Post 4",
+      "content": "This is the content of the fourth health post.",
+      "author": "Bob Brown",
+      "date": "2023-01-04",
+      "category": "Health",
+      "topic": "health"
+    }
+  ]
+}
