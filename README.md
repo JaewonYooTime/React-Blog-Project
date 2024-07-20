@@ -168,8 +168,3 @@ React-Blog-Project/
 
 
 ---
-
-Feel free to modify this README template to better suit your project's needs!
-```
-
-이제 프로젝트에 맞게 필요한 세부 사항을 수정하시면 됩니다. 추가적으로 필요한 내용이 있거나 수정 사항이 있다면 말씀해주세요.
