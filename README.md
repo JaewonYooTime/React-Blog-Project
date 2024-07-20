@@ -159,12 +159,3 @@ React-Blog-Project/
 이 프로젝트는 MIT 라이선스 하에 라이선스가 부여됩니다.
 
 자세한 내용은 [GitHub 저장소](https://github.com/JaewonYooTime/React-Blog-Project)를 참조하세요.
-
----
-
-이 README 템플릿은 프로젝트의 필요에 따라 자유롭게 수정하실 수 있습니다!
-```
-
-
-
----
