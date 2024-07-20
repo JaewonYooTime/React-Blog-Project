@@ -1,4 +1,83 @@
-물론입니다. 아래는 한글과 영어 버전의 README 파일입니다.
+### English README
+
+```markdown
+# React Blog Project
+
+## Project Overview
+This is a simple React-based blog project designed to showcase basic blogging functionalities with a clean and modern interface. The project leverages various tools and libraries to enhance the development process and user experience.
+
+## File Structure
+The project's file structure is organized as follows:
+
+React-Blog-Project/
+├── node_modules/
+├── simple-blog/
+│ ├── public/
+│ └── src/
+│ ├── components/
+│ │ ├── BlogPost.jsx
+│ │ ├── BlogList.jsx
+│ │ └── Header.jsx
+│ ├── pages/
+│ │ ├── Home.jsx
+│ │ └── Post.jsx
+│ ├── App.js
+│ └── index.js
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+└── tailwind.config.js
+
+## Key Files and Their Functions
+
+- **App.js**: The main component that sets up routing and includes other components.
+- **index.js**: The entry point of the React application.
+- **components/**:
+  - **BlogPost.jsx**: Component for displaying individual blog posts.
+  - **BlogList.jsx**: Component for listing all blog posts.
+  - **Header.jsx**: Component for the website header.
+- **pages/**:
+  - **Home.jsx**: The homepage displaying the list of blog posts.
+  - **Post.jsx**: The page displaying a single blog post in detail.
+- **package.json**: Contains project metadata and dependencies.
+- **postcss.config.js**: Configuration for PostCSS, a tool for transforming CSS.
+- **tailwind.config.js**: Configuration for Tailwind CSS, a utility-first CSS framework.
+
+## Setup Instructions
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/JaewonYooTime/React-Blog-Project.git
+   cd React-Blog-Project
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**:
+   ```bash
+   npm start
+   ```
+
+4. **Build the project for production**:
+   ```bash
+   npm run build
+   ```
+
+## Features
+- **Blog Post Management**: Create, read, and list blog posts.
+- **Responsive Design**: Utilizes Tailwind CSS for a responsive and modern design.
+- **Routing**: Implements React Router for navigation between pages.
+
+## Contributions
+Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project is licensed under the MIT License.
+
+For more details, visit the [GitHub repository](https://github.com/JaewonYooTime/React-Blog-Project).
 
 ### 한글 README
 
@@ -86,86 +165,7 @@ React-Blog-Project/
 이 README 템플릿은 프로젝트의 필요에 따라 자유롭게 수정하실 수 있습니다!
 ```
 
-### English README
 
-```markdown
-# React Blog Project
-
-## Project Overview
-This is a simple React-based blog project designed to showcase basic blogging functionalities with a clean and modern interface. The project leverages various tools and libraries to enhance the development process and user experience.
-
-## File Structure
-The project's file structure is organized as follows:
-
-React-Blog-Project/
-├── node_modules/
-├── simple-blog/
-│ ├── public/
-│ └── src/
-│ ├── components/
-│ │ ├── BlogPost.jsx
-│ │ ├── BlogList.jsx
-│ │ └── Header.jsx
-│ ├── pages/
-│ │ ├── Home.jsx
-│ │ └── Post.jsx
-│ ├── App.js
-│ └── index.js
-├── package-lock.json
-├── package.json
-├── postcss.config.js
-└── tailwind.config.js
-
-## Key Files and Their Functions
-
-- **App.js**: The main component that sets up routing and includes other components.
-- **index.js**: The entry point of the React application.
-- **components/**:
-  - **BlogPost.jsx**: Component for displaying individual blog posts.
-  - **BlogList.jsx**: Component for listing all blog posts.
-  - **Header.jsx**: Component for the website header.
-- **pages/**:
-  - **Home.jsx**: The homepage displaying the list of blog posts.
-  - **Post.jsx**: The page displaying a single blog post in detail.
-- **package.json**: Contains project metadata and dependencies.
-- **postcss.config.js**: Configuration for PostCSS, a tool for transforming CSS.
-- **tailwind.config.js**: Configuration for Tailwind CSS, a utility-first CSS framework.
-
-## Setup Instructions
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/JaewonYooTime/React-Blog-Project.git
-   cd React-Blog-Project
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**:
-   ```bash
-   npm start
-   ```
-
-4. **Build the project for production**:
-   ```bash
-   npm run build
-   ```
-
-## Features
-- **Blog Post Management**: Create, read, and list blog posts.
-- **Responsive Design**: Utilizes Tailwind CSS for a responsive and modern design.
-- **Routing**: Implements React Router for navigation between pages.
-
-## Contributions
-Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-This project is licensed under the MIT License.
-
-For more details, visit the [GitHub repository](https://github.com/JaewonYooTime/React-Blog-Project).
 
 ---
 
